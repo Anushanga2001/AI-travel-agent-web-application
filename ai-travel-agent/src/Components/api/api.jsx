@@ -19,8 +19,8 @@ export const getLocationInfo = async (sw, ne) => {
       // Headers required for the RapidAPI
       headers: {
         // "X-RapidAPI-Key": "2ab628a7dbmsh88141b9189ac50ep1ab59djsnf3d3f0edcea2",
-        // "X-RapidAPI-Key": "fb41c859abmsh03d12c836639d57p1a7162jsn7016c860d8e5",
-        "X-RapidAPI-Key": "79b18cdd64mshc48a1489db92148p112563jsnaf58921f97e1",
+        "X-RapidAPI-Key": "fb41c859abmsh03d12c836639d57p1a7162jsn7016c860d8e5",
+        // "X-RapidAPI-Key": "79b18cdd64mshc48a1489db92148p112563jsnaf58921f97e1",
         "X-RapidAPI-Host": "travel-advisor.p.rapidapi.com",
       },
     });
